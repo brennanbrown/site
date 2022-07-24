@@ -1,3 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Libre+Franklin:wght@600&display=swap');
+
+:root {
+    --bg-color: #ffffff;
+    --bg-secondary-color: #f3f3f6;
+    --color-primary: #1555a8;
+    --color-lightGrey: #d2d6dd;
+    --color-grey: #747681;
+    --color-darkGrey: #3f4144;
+    --color-error: #d43939;
+    --color-success: #28bd14;
+    --grid-maxWidth: 140rem;
+    --grid-gutter: 2rem;
+    --font-size: 1.6rem;
+    --font-color: #333333;
+    --font-family-sans: 'Libre Franklin',
+        sans-serif;
+    --font-family-mono: monaco, "Consolas", "Lucida Console", monospace;
+}
+
 h1,
 figcaption,
 #description,
@@ -8,6 +28,17 @@ figcaption,
 
 h2 {
     margin-bottom: 0px;
+}
+
+.image {
+    margin: 0 auto;
+    display: block;
+}
+
+.home-avatar {
+    max-width: 300px;
+    border-radius: 100%;
+    padding-bottom: 15px;
 }
 
 #title a {
@@ -75,3 +106,20 @@ a.skip-main:active {
     font-size: 1.2em;
     z-index: 999;
 }
+
+#new-header {
+    position: sticky;
+    top: 0;
+    z-index: 999;
+    border-bottom: 1px solid #999;
+}
+
+nav {
+    background-color: white;
+}
+
+/* TODO for Header
+- Change padding on links
+- Replace RSS link w/ icon
+- Bold text, change typeface (in general)
+*/

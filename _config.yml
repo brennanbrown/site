@@ -42,9 +42,8 @@ author_bio: >-
   and I'm looking to help those that need web development work done, or 
   searching for ideas and management for their next content project.
 author_pic: https://brennanbrown.ca/img/avatar.png
-
-paginate: 4
-paginate_path: "/:num/"
+paginate: 5
+paginate_path: "/blog/:num/"
 
 markdown: kramdown
 
@@ -60,7 +59,7 @@ plugins:
   - jekyll-paginate
 permalink: /:title
 
-theme_switcher: true
+theme_switcher: false
 
 # Allows all pages to be put into `_pages` folder
 # for easier navigation and better SEO.

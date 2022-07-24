@@ -17,9 +17,9 @@ content-type: eg
 }
 </style>
 
-<div>
+<div class="row">
     {% for tag in site.tags %}
-    <div>
+    <div class="col-3">
         <h3 id="{{ tag | first }}">{{ tag | first | capitalize }}</h3>
         <ul>
         {% for post in tag.last %}

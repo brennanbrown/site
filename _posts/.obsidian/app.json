@@ -1,0 +1,10 @@
+{
+  "spellcheck": true,
+  "strictLineBreaks": true,
+  "showFrontmatter": false,
+  "foldHeading": true,
+  "foldIndent": true,
+  "showLineNumber": true,
+  "legacyEditor": false,
+  "livePreview": true
+}

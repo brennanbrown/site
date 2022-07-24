@@ -1,0 +1,97 @@
+{
+  "main": {
+    "id": "638ef83ff08ba70b",
+    "type": "split",
+    "children": [
+      {
+        "id": "57774919f800f4b4",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "2016/2016-03-20-anti-medium.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3b86475aa8b9a003",
+    "type": "split",
+    "children": [
+      {
+        "id": "392ce7efde54923b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7ccb8892a1ed63d9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "7fdfc4cd072dbde1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e95befb2a6271926",
+    "type": "split",
+    "children": [
+      {
+        "id": "51057cf596c7449e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ba02a39def3eaf37",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "2016/2016-03-20-anti-medium.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "57774919f800f4b4",
+  "lastOpenFiles": [
+    "2016/2016-03-20-anti-medium.md",
+    "2016/2016-01-23-rules-of-journal-writing-learned-after-5-years.md",
+    "2016/2016-01-04-confession.md",
+    "2016/2016-01-01-introduction.md"
+  ]
+}

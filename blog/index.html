@@ -1,0 +1,113 @@
+---
+layout: default
+---
+<div class="row">
+    <div class="col-8">
+        {% assign posts = paginator.posts %}
+
+        {%- if posts.size > 0 -%}
+        {%- assign date_format = site.minima.date_format | default: "%B %-d, %Y" -%}
+        {%- for post in posts -%}
+
+        <h2 class="blog-title">
+            <a href="{{ post.url | relative_url }}">
+                {{ post.title | escape }}
+            </a>
+        </h2>
+        <span>Posted:
+            {{ post.date | date: date_format }}
+        </span>
+        <br />
+        <span>
+            Tagged:
+            {% for tag in post.tags %}
+            <a href="/tags/#{{ tag }}">#{{ tag }}</a>
+            {% endfor %}
+        </span>
+        <br />
+        <small>
+            <em>{{ post.content | strip_html | escape | truncate: 400}}</em>
+        </small>
+        {%- endfor -%}
+    </div>
+    <div class="col-4 menu">
+        <h2>About Me</h2>
+        <img src="/assets/avatar.jpg" alt="Brennan's Face" height="150" width="150">
+        <p>Hi, I'm Brennan. I'm a 24-year-old web developer and content strategist from Winnipeg, Manitoba and currently
+            residing in
+            Calgary, Alberta. My current main focuses in my writing include self-development, community, and my
+            experiences
+            with
+            programming. </p>
+
+        <br />
+
+        <h2>Contact Me</h2>
+        <p>Interested in having a chat? Feel free to shoot me a DM anytime on <a
+                href="https://twitter.com/brennankbrown/">Twitter.</a> I'm also always updating projects on <a
+                href="https://github.com/brennanbrown/">GitHub</a> if you wanna follow me there!</p>
+
+        <br />
+
+        <h2 class="newsletter">Sign Up!</h2>
+        <iframe src="https://brennan.substack.com/embed" width="100%" height="270" frameborder="0"
+            scrolling="no"></iframe>
+
+        <br />
+
+        <h2>Categories</h2>
+        <div class="tags-expo">
+            <select name="Select a Category">
+                {% assign sorted_tags = (site.tags | sort:0) %}
+                {% for tag in sorted_tags %}
+                {% assign t = tag | first %}
+                {% assign posts = tag | last %}
+                <option><a href="tagged/{{ t | slugify }}" class="post-tag">{{ tag[0] }} </a> ({{ posts | size }}
+                    Posts)</a>
+                </option>
+                {% endfor %}
+            </select>
+            <button onclick="window.location.href='/tagged'">Go To Category Page</button>
+        </div>
+    </div>
+
+</div>
+
+</div>
+
+<br />
+
+{% if paginator.total_pages > 1 %}
+<div id="pages">
+    {% if paginator.previous_page %}
+    <strong>
+        <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&laquo; Prev</a>
+    </strong>
+    {% else %}
+    <span>&laquo; Prev</span>
+    {% endif %}
+
+    {% for page in (1..paginator.total_pages) %}
+    {% if page == paginator.page %}
+    <span class="webjeda">({{ page }})</span>
+    {% elsif page == 1 %}
+    <a href="/">{{ page }}</a>
+    {% else %}
+    <strong>
+        <a href="{{ site.paginate_path | prepend: site.baseurl | replace: '//', '/' | replace: ':num', page }}">{{ page
+            }}</a>
+    </strong>
+    {% endif %}
+    {% endfor %}
+
+    {% if paginator.next_page %}
+    <strong>
+        <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Next &raquo;</a>
+    </strong>
+    {% else %}
+    <span>Next &raquo;</span>
+    {% endif %}
+</div>
+{% endif %}
+
+{%- endif -%}

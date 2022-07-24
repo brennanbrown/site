@@ -1,4 +1,22 @@
-<header>
+<header id="new-header">
+    <nav class="nav">
+        <div class="nav-left">
+            <a class="brand">
+                <img src="assets/logo.png" alt="" />
+                <h1 style="font-size: 20px">Brennan Kenneth Brown</h1>
+            </a>
+        </div>
+        <div class="nav-center">
+            <a href="/">Home</a>
+            {% for page in site.pages %}
+            <a href="{{ page.url }}">{{page.title}}</a>
+            {% endfor %}
+            <a href="/feed.xml"><img src="https://icongr.am/entypo/rss.svg?size=18&color=ff8040" /></a>
+        </div>
+    </nav>
+</header>
+
+<!-- <header>
     <h1 id="title">
         <a href="/">{{site.title}}</a>
     </h1>
@@ -17,4 +35,4 @@
         <a href="/feed.xml">RSS</a>
     </nav>
     <hr/>
-</header>
+</header> -->

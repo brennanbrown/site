@@ -1,0 +1,20 @@
+<header>
+    <h1 id="title">
+        <a href="/">{{site.title}}</a>
+    </h1>
+    <p id="description">
+        {{site.description}}
+    </p>
+
+    <hr/>
+    <nav id="navigation">
+        <a href="/">Home</a>
+        /
+        {% for page in site.pages %}
+            <a href="{{ page.url }}">{{page.title}}</a>
+            /
+        {% endfor %}
+        <a href="/feed.xml">RSS</a>
+    </nav>
+    <hr/>
+</header>

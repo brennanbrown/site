@@ -1,7 +1,21 @@
+---
+id: 231
+title: "Medium Doesn't Work"
+date: 2021-02-03
+author: Brennan K. Brown
+layout: post
+permalink: /medium-doesn't-work
+categories:
+  - Blogging
+tags:
+  - Medium
+  - Writing
+  - UX
+---
 
-# Medium Doesn’t Work
+Are you a new writer struggling to get your voice heard on Medium? Are you tired of the endless sea of generic topics and limited selection for what you can write about? You're not alone. In this post, we delve into the recent changes made to Medium's UI/UX and how they have made it increasingly difficult for small creators to reach their audience. From the shift in focus from headlines to people, to the heavily curated list of topics and the alteration of personal domains, the platform has become hostile to those just starting out. But, with a world filled with young, creative and driven individuals, it's important for Medium to prioritize small writers and make it easier for their voices to be heard.
 
-Medium Doesn’t Work
+<!--more-->
 
 ### Making completely wrong changes, for a Gen Z audience.
 

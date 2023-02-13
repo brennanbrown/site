@@ -1,7 +1,21 @@
+---
+id: 236
+title: "Being Able to Take Stock"
+date: 2021-04-21
+author: Brennan K. Brown
+layout: post
+permalink: /being-able-to-take-stock
+categories:
+  - Blogging
+tags:
+  - Legacy
+  - Writing
+  - Philosophy
+---
 
-# Being Able to Take Stock
+In a world plagued by uncertainty and change, it can be easy to fall into a monotonous routine and lose sight of the beauty around us. But what if we took a step back and viewed our lives with fresh eyes? What if we approached each day with the beginner's mind, full of openness and eagerness to experience the world in a new way? That's what  this post is striving for, to take stock of all that surrounds me and allow myself to start over and appreciate the beauty of the everyday. Join me on my journey to find the delicate art of *Shoshin* and live it in this thought-provoking post.
 
-Being Able to Take Stock
+<!--more-->
 
 ### *Finding the delicate art of Shoshin and living it.*
 
@@ -34,5 +48,6 @@ That’s what I’m attempting to do — to just take stock of everything around
 It can often feel as though there is a heavy monotony when it comes to the everyday, but this monotony is from the perception, not the acts themselves. A mind that frees itself from the automatic-typical response can see a rich variety, can view something different in the same plant that’s been in her front yard for the past thirty years.
 
 That’s what I am striving for. Every day is a new day. Each night that you fall asleep is death just practising, and every morning is a new day.
-> # *“This is the beginning of a new day. I have been given this day to use as I will. I can waste it. . . or use it for good, but what I do today is important, because I am exchanging a day of my life for it! When tomorrow comes, this day will be gone forever, leaving in its place something that I have traded for it. I want it to be gain and not loss; good and not evil; success, and not failure; in order that I shall not regret the price that I have paid for it. I will try just for today, for you never fail until you stop trying.*
-> # *— Ric Kausrud, 1997.*
+
+> *“This is the beginning of a new day. I have been given this day to use as I will. I can waste it. . . or use it for good, but what I do today is important, because I am exchanging a day of my life for it! When tomorrow comes, this day will be gone forever, leaving in its place something that I have traded for it. I want it to be gain and not loss; good and not evil; success, and not failure; in order that I shall not regret the price that I have paid for it. I will try just for today, for you never fail until you stop trying.*
+> *— Ric Kausrud, 1997.*

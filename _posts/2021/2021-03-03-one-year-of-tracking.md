@@ -1,11 +1,25 @@
+---
+id: 232
+title: "One Year of Tracking"
+date: 2021-03-03
+author: Brennan K. Brown
+layout: post
+permalink: /one-year-of-tracking
+categories:
+  - Blogging
+tags:
+  - Self-quantification
+  - Beeminder
+  - Self-improvement
+---
 
-# One Year of Tracking
+Tracking your progress towards self-improvement can be a challenging journey, but my determination and love for data has led ,e to successfully complete a year-long experiment of tracking every aspect of my life with the app, Beeminder. From coding and writing to fitness and mental health, join me as I take you through my journey of self-discovery, improvement, and ultimately, a more meaningful life. This is not just a story of numbers, but of the ups and downs, and the small, positive changes that became permanent habits. So, let's dive in and discover the secrets to success with Beeminder!
 
-Tracking Every Aspect of My Life for a Year
+<!--more-->
 
-### How I’ve tried to improve my coding, writing, fitness, and mental health with data.
+## How I’ve tried to improve my coding, writing, fitness, and mental health with data.
 
-## Introduction: WTF is Beeminder?!
+### Introduction: WTF is Beeminder?!
 
 Last year, I wrote about [my experiences (and troubles)](https://blog.brennanbrown.ca/5-good-goals-ideas-and-why-86caddb33e70) with the self-improvement app, Beeminder. I decided that, as an attempt to make things actually work this time, I would embark on an experiment. An experiment where I would be the guinea pig!
 

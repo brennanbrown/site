@@ -1,7 +1,21 @@
+---
+id: 235
+title: "The Art of Merit"
+date: 2021-03-24
+author: Brennan K. Brown
+layout: post
+permalink: /art-of-merit
+categories:
+  - Blogging
+tags:
+  - Legacy
+  - Writing
+  - Philosophy
+---
 
-# The Art of Merit
+In a world where information is everywhere, how do we differentiate what is worth writing about and what is not? In this post, we delve into the subject of merit and recognition, exploring the intricacies of the literary world and the impact that opinions can have on works of art. From the struggle of trying to act on the basis of merit, to the role of patterns in our lives, and the under-appreciation of opinions, we'll examine how the art of merit is a complex and ever-evolving topic. Join us as we question the value of greatness and the idealistic notion of unlimited potential.
 
-The Art of Merit
+<!--more-->
 
 ### Notes on Patterns, Recognition, and Legacy.
 
@@ -24,8 +38,9 @@ There are so many people smarter than you, with better and more articulate versi
 It is an uphill climb, for every time you manage to get that boulder all the way up, you need to start again, start over from the beginning. There are no sudden shortcuts a soon as you achieve success — right? No, of course there are.
 
 Who’s more likely to become a bestselling author, a debut writer or someone who was already on the bestseller list?
-> # *When patterns are broken, new worlds emerge. 
-> #  — Tuli Kupferberg*
+
+> *When patterns are broken, new worlds emerge. 
+> — Tuli Kupferberg*
 
 ### 2. PATTERNS — OR LACK THEREOF
 
@@ -40,8 +55,9 @@ We are so impossibly fickle, fragile and seemingly invincible. No amount of cons
 These may be extreme examples, but they are not outliers. The only thing that can battle the atrophy-inclined nature of the universe is the person’s unreasonable unpredictability.
 
 Our ability to become something so greater than the thing we once were — with nothing else but our own spirit — can seem as though it violates the basic laws of the universe itself, if you allow me to get a little romantic.
-> # “Opinion is the medium between knowledge and ignorance.”
-> # **— Plato**
+
+> “Opinion is the medium between knowledge and ignorance.”
+> **— Plato**
 
 ### 3. OPINIONS & THE IDEALISTS
 
@@ -56,8 +72,8 @@ On the contrary, people also under-appreciate the value of their opinion. What w
 There are so many wonderful literary works and films that I adore so much, and that a large amount of people adore as well, that still will get their fair share of 1-star reviews. In fact that probably seems beyond obvious. And these people that share these critical views are usually not contrarian by nature, they may genuinely hold the belief that what is generally regarded as a masterpiece may in fact just be plainly awful.
 
 And if you truly take into account the consciousness of that one particular person who believes that — that they themselves have a rich and entire life that goes along with that opinion (often called [*sonder](https://www.dictionaryofobscuresorrows.com/post/23536922667/sonder)*), it can feel debilitating. There is such a weight to it: That no matter how hard you try, possibly over the course of years, there are those that shrug and dismiss it — and perhaps rightly so.
-> # “If my doctor told me I had only six minutes to live, I wouldn’t brood. I’d type a little faster.”
-> # — Isaac Asimov
+> “If my doctor told me I had only six minutes to live, I wouldn’t brood. I’d type a little faster.”
+> — Isaac Asimov
 
 ### 4. FREEDOM
 

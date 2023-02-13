@@ -18,14 +18,14 @@ content-type: eg
 </style>
 
 <div class="row">
+    {% assign tags = site.tags | sort %}
     {% for tag in site.tags %}
     <div class="col-3">
-        <h3 id="{{ tag | first }}">{{ tag | first | capitalize }}</h3>
-        <ul>
-        {% for post in tag.last %}
-            <li><a href="{{post.url}}">{{ post.title }}</a></li>
-        {% endfor %}
-        </ul>
+  {% assign tag_name = tag[0] %}
+  {% assign tag_posts = tag[1] %}
+  <li>
+    <a href="#{{ tag_name | slugify }}">{{ tag_name }}</a> ({{ tag_posts | size }})
+  </li>
     </div>
     {% endfor %}
     <br/>

@@ -28,7 +28,7 @@ There is a deep conviction required for this. To spend hours per day working tow
 
 Though, perhaps there isn't such planning. Rather, these great works instead are conjured up organically by a repeating persistence and habitual work. Regardless, the conviction is still there.
 
-For myself, personally, I find I'm only able to recognize a completed project in hindsight--I do not go about working on tasks with the plan being that there's going to be a neat, finished-product once I'm done. This has only occurred a handful of times, anyways. Whether it's my [early photography](https://qvl.deviantart.com), [music](https://augistin.bandcamp.com), [art](https://pale.pw/), or [this blog](https://notebook.casa) itself.
+For myself, personally, I find I'm only able to recognize a completed project in hindsight--I do not go about working on tasks with the plan being that there's going to be a neat, finished-product once I'm done. This has only occurred a handful of times, anyways. Whether it's my [early photography](https://qvl.deviantart.com), [music](https://augistin.bandcamp.com), [art](https://pale.pw/), or [this blog](https://brenblog.netlify.app) itself.
 
 I don't believe these projects are impressive or noteworthy by any means, but it's nice to see that I'm able to accomplish something at all.
 

@@ -1,23 +1,26 @@
 ---
 layout: default
 ---
+<div class="row">
+    <div class="col-12">
+        <article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
 
-<article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
+            <header>
+                <h2 itemprop="name headline">{{ page.title | escape }}</h2>
+                {%- include post-data.html -%}
+            </header>
 
-    <header>
-        <h2 itemprop="name headline">{{ page.title | escape }}</h2>
-        {%- include post-data.html -%}
-    </header>
+            <div class="e-content" itemprop="articleBody">
+                {{ content }}
+            </div>
 
-    <div class="e-content" itemprop="articleBody">
-        {{ content }}
+            {%- include author.html -%}
+
+            {%- if site.disqus.shortname -%}
+                {%- include disqus_comments.html -%}
+            {%- endif -%}
+
+            <a class="u-url u-uid" href="{{ page.url | relative_url }}" hidden></a>
+        </article>
     </div>
-
-    {%- include author.html -%}
-
-    {%- if site.disqus.shortname -%}
-        {%- include disqus_comments.html -%}
-    {%- endif -%}
-
-    <a class="u-url u-uid" href="{{ page.url | relative_url }}" hidden></a>
-</article>
+</div>

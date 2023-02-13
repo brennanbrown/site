@@ -1,5 +1,5 @@
 ---
-id: 221
+id: 225
 title: "The Hard Reset"
 date: 2020-10-07
 author: Brennan K. Brown

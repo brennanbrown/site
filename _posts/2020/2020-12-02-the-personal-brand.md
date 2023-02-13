@@ -1,7 +1,21 @@
+---
+id: 227
+title: "The Personal Brand"
+date: 2020-12-02
+author: Brennan K. Brown
+layout: post
+permalink: /the-personal-brand
+categories:
+  - Blogging
+tags:
+  - Marketing
+  - Creativity
+  - Identity
+---
 
-# The Personal Brand
+Are you feeling uncertain about the direction of your career? Do you struggle to articulate what makes you unique and valuable? Look no further! In this post, we delve into the world of personal branding and explore how it can give you the focus, intention, and influence you need to achieve your career goals. From building a strong and compelling personal brand, to creating opportunities for yourself, to developing credibility and taking control of who you are, this guide will provide you with the tools you need to make a lasting impact in your professional life. So, don't leave your reputation to chance. Take control of your personal brand today and start creating your desired legacy.
 
-The Personal Brand
+<!--more-->
 
 ### Creating Your Identity
 

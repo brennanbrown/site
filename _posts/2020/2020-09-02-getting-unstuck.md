@@ -1,5 +1,5 @@
 ---
-id: 221
+id: 224
 title: "Getting Unstuck for Creatives"
 date: 2020-09-02
 author: Brennan K. Brown

@@ -1,7 +1,21 @@
+---
+id: 230
+title: "My Journey This Year"
+date: 2020-12-30
+author: Brennan K. Brown
+layout: post
+permalink: /my-journey-this-year
+categories:
+  - Blogging
+tags:
+  - Productivity
+  - Self-improvement
+  - Life
+---
 
-# My Journey This Year
+Starting a new year is always a time for reflection and goal-setting. But for one person, the journey of 2020 has been one filled with unexpected twists and turns, leading to a transformative experience. From facing unemployment and financial struggles, to enrolling in a full-stack development program, to rediscovering passions and setting new goals, this person's story is one of perseverance, growth, and gratitude. Join us as we embark on their journey and follow their goals for 2021 in areas of work, education, creativity, fitness, and more. Get inspired and motivated to make this year your best year yet. Happy New Year!
 
-What I’ve Learned in 2020
+<!--more-->
 
 ### & My Goals for the New Year
 

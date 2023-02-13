@@ -1,5 +1,5 @@
 ---
-id: 221
+id: 222
 title: "The One-Year Rule"
 date: 2020-06-27
 author: Brennan K. Brown

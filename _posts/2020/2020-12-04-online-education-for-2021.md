@@ -1,7 +1,21 @@
+---
+id: 228
+title: "Online Education for 2021"
+date: 2020-12-04
+author: Brennan K. Brown
+layout: post
+permalink: /online-education
+categories:
+  - Blogging
+tags:
+  - Education
+  - Learning
+  - Career
+---
 
-# Online Education for 2021
+Are you looking to enhance your career prospects and boost your resume? The world of online learning has opened up a plethora of opportunities for anyone looking to acquire new skills and certifications. From web development to digital marketing, there's something for everyone. In this post, we'll be exploring 8 resources where you can gain valuable certifications, all at an affordable price. So, whether you're just starting out or looking to advance your career, join us as we dive into the world of online learning and career-boosting certifications!
 
-The Best Education that’s Online for 2021
+<!--more-->
 
 ### 8 Resources for Career-boosting Certification!
 

@@ -1,8 +1,20 @@
+---
+id: 234
+title: "Letter to Pi Day"
+date: 2021-03-14
+author: Brennan K. Brown
+layout: post
+permalink: /letter-to-pi-day
+categories:
+  - Blogging
+tags:
+  - Math
+  - Life
+---
 
-# Letter to Pi Day
+Celebrate Pi Day with a heartfelt letter that pays tribute to the power and beauty of numbers. This year's Pi Day video by the beloved mathematician Vi Hart is a fitting tribute to the unceasing and stubborn nature of mathematics. Through the lens of Pi Day, the author reflects on the importance of numbers in our lives, from the clock on our phones to the calculations that allow us to grow food and create medicine. But numbers can also be used for harm, leading to the question of whether we truly deserve Pi Day. The author assures us that, despite the darkness that can exist in the world, the good that people do is innumerable and often goes unnoticed. Join us in celebrating Pi Day and embrace the power and potential of numbers.
 
-Letter to Pi Day
-
+<!--more-->
 ### An Ode
 
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/AHrth9lOfzo" frameborder="0" allowfullscreen></iframe></center>

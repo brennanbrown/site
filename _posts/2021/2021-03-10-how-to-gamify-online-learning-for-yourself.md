@@ -1,7 +1,21 @@
+---
+id: 233
+title: "How to Gamify Online Learning"
+date: 2021-03-10
+author: Brennan K. Brown
+layout: post
+permalink: /how-to-gamify-online-learning
+categories:
+  - Blogging
+tags:
+  - Productivity
+  - Web Design
+  - Self-quantification
+---
 
-# How-to Gamify Online Learning for Yourself
+Welcome to the exciting world of online learning! Are you tired of juggling multiple platforms to keep track of your personal education journey? Do you struggle to stay motivated and make steady progress towards your goals? If you're nodding your head in agreement, then you're in the right place! Introducing Self-Teach Academy, the innovative solution for gamifying your online learning experience. Our platform syncs with various websites and services to provide a centralized dashboard for tracking your progress and showcasing your achievements. And the best part? We use machine learning and artificial intelligence to help you learn smarter. So say goodbye to scattered notes and lost motivation, and join us on a journey to disrupt the education industry!
 
-How-to Gamify Online Learning for Yourself
+<!--more-->
 
 ### My Newest Project: Selfteach.Academy/
 

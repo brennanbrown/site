@@ -1,7 +1,21 @@
+---
+id: 229
+title: "A New Daily Routine"
+date: 2020-12-23
+author: Brennan K. Brown
+layout: post
+permalink: /new-daily-routine
+categories:
+  - Blogging
+tags:
+  - Productivity
+  - Self-improvement
+  - Habits
+---
 
-# A New Daily Routine
+Are you ready to start off 2021 with a bang? Want to form new habits that will transform your life for the better? Look no further! In this post, we have compiled a list of 10 new habits that will help you live a more meaningful and fulfilling life. From starting your day off right to focusing on deep work, from eating healthy to relaxing and having fun, this list has it all. And, to make it easier for you, each habit comes with helpful links to related articles and resources. So, what are you waiting for? Let's get started!
 
-A New Daily Routine
+<!--more-->
 
 ### 10 New Habits to start off 2021 with!
 

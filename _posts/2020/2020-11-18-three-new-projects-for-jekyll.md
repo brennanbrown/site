@@ -1,7 +1,21 @@
+---
+id: 226
+title: "Three New Projects for Jekyll"
+date: 2020-11-18
+author: Brennan K. Brown
+layout: post
+permalink: /3-new-projects
+categories:
+  - Blogging
+tags:
+  - Jekyll
+  - Web Development
+  - Coding
+---
 
-# Three New Projects for Jekyll
+I've created three new projects for Jekyll: Watery, Purelog, and Enjoyment Work. Watery is a minimalist theme that uses the Water.css framework and has received a perfect score of 100/100 in performance, accessibility, best practices, and SEO according to Google Lighthouse. Purelog is a sidebar theme that uses the Pure.css framework and is designed for those looking for a unique theme with features such as customizable collections, archive pages, and author bio. Finally, Enjoyment Work is a project that highlights the messy and non-linear nature of thinking. All three projects are free and open-source.
 
-Three New Projects for Jekyll
+<!--more-->
 
 ### Watery, Purelog, and Enjoyment Work: Free and Open-Source!
 

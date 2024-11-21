@@ -1,450 +1,285 @@
 "1996-04-13":
-  - name: "I am born!"
-    desc: "Born at Hoag Hospital in Newport Beach California. 1996 was the year of the Rat, Because You Loved Me and Primal were top of the charts, and Bill Clinton was president of the United States. I'm an Aries."
+  - name: "👶 I was born in Winnipeg, Manitoba"
+    desc: "Born on the convergence of the Assiniboine and Red rivers. A Métis child born into the confluence of European and Indigenous blood."
     category: "self"
-
-"1978-10-29":
-  - name: "My sister, Kristy, is born"
-    category: "family"
-    tags: ["kristy"]
-
-"1982-08-25":
-  - name: "I start at Glenmeade Elementary"
-    category: "school"
-
-"1984-08-01":
-  - name: "We move to Irvine"
-    category: "family"
-
-"1984-09-02":
-  - name: "I transfer to Stonecreek Elementary for 3rd grade"
-    category: "school"
-
-"1988-09-10":
-  - name: "I start 7th grade at Lakeside Middle"
-    category: "school"
-
-"1990-09-02":
-  - name: "I start at Woodbridge High School"
-    category: "school"
-
-"1993-10-30":
-  - name: "💔 My father passes away"
-    desc: "From complications with treatment for lung cancer."
-    category: "family"
-    tags: ["dad"]
-
-"1994-05-15":
-  - name: "I graduate from Woodbridge High School"
-    category: "school"
-
-"1994-08-07":
-  - name: "🚚 I move to Berkeley, California"
-    category: "self"
-
-"1995-08-01":
-  - name: "🚚 I move to Seattle, Washington"
-    category: "self"
-
-"1994-08-19":
-  - name: "First day of college at UC Berkeley"
-    category: "school"
-
-"1995-09-25":
-  - name: "First day at UW, starting the sophomore year"
-    desc: "Switching from genetic biology to creative writing!"
-    category: "school"
-
-"1998-06-13":
-  - name: "I graduate from UW with a degree in creative writing"
-    category: "school"
-
-"1998-11-02":
-  - name: "My first day at Amazon, doing night shift customer service"
-    category: "work"
-    tags: ["technology"]
-
-"1999-10-03":
-  - name: "I write my first blog post on Live Journal"
-    category: "writing"
-
-"2000-01-01":
-  - name: "Y2K"
-    desc: "The world doesn't end. Wee!"
-    category: "world"
-    tags: ["technology"]
-
-"2000-05-23":
-  - name: "I become a 'web developer' and learn to code on the job"
-    category: "work"
-    tags: ["technology"]
-
-"2000-06-17":
-  - name: "Kharis and I get married"
-    category: "relationships"
-    tags: ["kharis"]
+    tags: ["identity", "métis"]
 
 "2001-09-11":
-  - name: "September 11th"
+  - name: "🌍 I witnessed the September 11th attacks change the world"
+    desc: "Terrorist attacks on the World Trade Center and Pentagon reshape global politics"
     category: "world"
-    tags: ["politics"]
+    tags: ["history"]
 
-"2002-11-30":
-  - name: "I complete my first National Novel Writing Month challenge"
-    category: "writing"
-    tags: ["man versus himself"]
-
-"2003-03-20":
-  - name: "The Iraq War starts"
-    category: "world"
-    tags: ["politics"]
-
-"2003-08-05":
-  - name: "I self-publish my NaNoWriMo novel, Man Versus Himself"
-    category: "writing"
-    link: "https://amzn.to/2GJ8ASw"
-    tags: ["man versus himself"]
-
-"2004-09-13":
-  - name: "Kharis and I officially divorced"
-    desc: "Separated in February 2004."
-    category: "relationships"
-    tags: ["kharis"]
-
-"2004-09-01":
-  - name: "The Robot Co-op is founded"
-    category: "work"
-    tags: ["robot co-op"]
-
-"2004-11-01":
-  - name: "I buy my first place: a condo in Belltown"
-    category: "self"
-    tags: ["self", "home"]
-
-"2005-01-01":
-  - name: "43things.com launches"
-    category: "work"
-    tags: ["robot co-op"]
-
-"2006-05-28":
-  - name: "🎂 I turn 30: Higher highs and lower lows"
-    category: "birthday"
-    link: "https://notes.busterbenson.com/blog/2006/05-31-higher-highs-lower-lows/"
-    tags: ["annual review"]
-
-"2006-09-06":
-  - name: "I legally change my name to Buster Butterfiled McLeod"
-    category: "self"
-
-"2006-12-31":
-  - name: "McLeod Residence's New Year's Eve opening party"
-    category: "work"
-    tags: ["mcleod residence"]
-
-  - name: "I meet Kellianne"
-    category: "relationships"
-    tags: ["kellianne"]
-
-"2007-03-04":
-  - name: "First kiss with Kellianne"
-    category: "relationships"
-    tags: ["kellianne"]
-
-"2007-05-28":
-  - name: "🎂 I turn 31: Double down"
-    category: "birthday"
-    link: "https://notes.busterbenson.com/blog/2007/05-29-double-down/"
-    tags: ["annual review"]
-
-"2007-06-29":
-  - name: "The first iPhone is released"
-    category: "world"
-    tags: ["technology"]
-
-"2008-05-28":
-  - name: "🎂 I turn 32: No problem"
-    category: "birthday"
-    link: "https://notes.busterbenson.com/blog/2008/05-27-no-problem/"
-    tags: ["annual review"]
+"2004-08-01":
+  - name: "🏡 I moved to Calgary with my family"
+    desc: "Mother sold home in Winnipeg's north end, divorced father, and moved me and my baby brother to Calgary."
+    category: "family"
+    tags: ["relocation"]
 
 "2008-09-15":
-  - name: "Financial crisis caused by subprime meltdown"
+  - name: "🌍 I lived through the Great Recession"
+    desc: "Global financial crisis caused by subprime mortgage collapse"
     category: "world"
-    tags: ["politics"]
+    tags: ["history", "economics"]
 
-"2008-10-04":
-  - name: "❤️ Kellianne and I get married"
-    category: "relationships"
-    tags: ["kellianne"]
+"2010-06-07":
+  - name: "📸 I started my photography portfolio"
+    desc: "Began sharing photography work on DeviantArt as 'qvl'"
+    category: "art"
+    tags: ["photography", "portfolio"]
+    link: "https://www.deviantart.com/qvl"
 
-"2008-10-31":
-  - name: "McLeod Residence's last day in business"
-    category: "work"
-    tags: ["mcleod residence"]
+"2011-02-14":
+  - name: "🎵 I released 'Harmonie: Early Compositions'"
+    desc: "Released my debut album of piano compositions on Bandcamp under the name Augustin"
+    category: "music"
+    tags: ["composition", "piano"]
+    link: "https://augustin.bandcamp.com/album/harmonie-early-compositions"
 
-"2008-11-04":
-  - name: "Obama wins the election."
-    category: "world"
-    tags: ["politics"]
-
-"2009-03-17":
-  - name: "Locavore, my farmer's market iPhone app, launches"
-    category: "work"
-    tags: ["locavore"]
-
-"2009-05-28":
-  - name: "🎂 I turn 33: Frugal to the max"
-    category: "birthday"
-    link: "https://notes.busterbenson.com/blog/2009/05-28-frugal-to-the-max/"
-    tags: ["annual review"]
-
-"2009-12-16":
-  - name: "750words.com launches"
-    category: "work"
-    link: "/750-words"
-    tags: ["750 words"]
-
-"2010-05-10":
-  - name: "❤️ Niko is born"
-    category: "family"
-    tags: ["niko"]
-
-"2010-05-28":
-  - name: "🎂 I turn 34: Cultivating the core"
-    category: "birthday"
-    link: "https://notes.busterbenson.com/blog/2010/05-28-cultivate-the-core/"
-    tags: ["annual review"]
-
-"2010-09-01":
-  - name: "Health Month launches"
-    category: "work"
-    tags: ["health month"]
-
-"2011-05-28":
-  - name: "🎂 I turn 35: Love the struggle"
-    category: "birthday"
-    link: "https://notes.busterbenson.com/blog/2011/05-28-love-the-struggle/"
-    tags: ["annual review"]
-
-"2011-07-01":
-  - name: "Habit Labs is founded"
-    category: "work"
-    tags: ["habit labs"]
-
-"2012-03-13":
-  - name: "Habit Labs launches Budge"
-    category: "work"
-    tags: ["habit labs", "bud.ge"]
-
-"2012-05-28":
-  - name: "🎂 I turn 36: Talk it out"
-    category: "birthday"
-    link: "https://notes.busterbenson.com/blog/2012/05-28-talk-it-out/"
-    tags: ["annual review"]
-
-"2012-07-11":
-  - name: "Habit Labs closes down"
-    category: "work"
-    tags: ["habit labs"]
-
-"2012-08-22":
-  - name: "I publish the first version of my book of beliefs"
-    category: "self"
-    tags: ["beliefs"]
-
-"2012-09-21":
-  - name: "My first day at Twitter"
-    category: "work"
-    tags: ["twitter"]
-
-"2013-01-04":
-  - name: "🚚 Kellianne, Niko, and I move to Berkeley, California"
-    category: "relationships"
-    tags: ["kellianne", "home"]
-
-"2013-05-28":
-  - name: "🎂 I turn 37: More kiloslogs"
-    category: "birthday"
-    link: "https://notes.busterbenson.com/blog/2013/05-28-more-kiloslogs/"
-    tags: ["annual review"]
-
-"2013-12-23":
-  - name: "I sell my Belltown condo in Seattle"
-    category: "self"
-
-"2014-05-09":
-  - name: "❤️ I meet Rodney, my brother. We found each other through 23 and Me"
-    category: "family"
-    tags: ["rodney"]
-
-"2014-05-28":
-  - name: "🎂 I turn 38: Cultivate quality time"
-    category: "birthday"
-    link: "https://notes.busterbenson.com/blog/2014/05-28-cultivate-quality-time/"
-    tags: ["annual review"]
-
-"2014-09-09":
-  - name: "🏡 Kellianne and I buy a house in Berkeley"
-    category: "family"
-    tags: ["home"]
-
-"2015-05-28":
-  - name: "🎂 I turn 39: Make wiggle room"
-    category: "birthday"
-    link: "https://notes.busterbenson.com/blog/2015/06-13-make-wiggle-room/"
-    tags: ["annual review"]
-
-"2015-06-03":
-  - name: "My last day at Twitter"
-    category: "work"
-    tags: ["twitter"]
-
-"2015-06-08":
-  - name: "My first day at Slack"
-    category: "work"
-    tags: ["slack"]
-
-"2015-12-15":
-  - name: "We launch Slack's Platform"
-    category: "work"
-    tags: ["slack"]
-
-"2016-05-28":
-  - name: "🎂 I turn 40: Mind the loops"
-    category: "birthday"
-    link: "https://notes.busterbenson.com/blog/2016/05-28-mind-the-loops/"
-    tags: ["annual review"]
-
-"2016-08-06":
-  - name: "❤️ Louie is born"
-    category: "family"
-    tags: ["louie"]
-
-"2016-09-01":
-  - name: "🧠 I publish the Cognitive Bias Cheat Sheet"
-    desc: "My first truly viral post. Eventually leads to a book deal."
+"2011-08-12":
+  - name: "✍️ I began publishing poetry online"
+    desc: "Started sharing poetry on DeviantArt as 'bk-blayze'"
     category: "writing"
-    link: "https://betterhumans.coach.me/cognitive-bias-cheat-sheet-55a472476b18"
-    tags: ["biases"]
+    tags: ["poetry", "portfolio"]
+    link: "https://www.deviantart.com/bk-blayze/"
 
-"2016-11-08":
-  - name: "🤬 Trump wins the election"
-    category: "world"
-    tags: ["politics"]
+"2012-04-01":
+  - name: "🎓 I dropped out of Ernest Manning High School"
+    desc: "Left traditional education system before completion"
+    category: "education"
+    tags: ["schooling"]
 
-"2017-05-28":
-  - name: "🎂 I turn 41: Seek endarkenment"
-    category: "birthday"
-    link: "https://notes.busterbenson.com/blog/2017/05-28-seek-endarkenment/"
-    tags: ["annual review"]
+"2013-04-13":
+  - name: "🎵 I released 'Riviè​re Dreamers'"
+    desc: "Released my second album of compositions on Bandcamp"
+    category: "music"
+    tags: ["composition", "piano"]
+    link: "https://augustin.bandcamp.com/album/rivi-re-dreamers"
 
-"2017-11-12":
-  - name: "👴🏻 My grandfather passes away"
-    category: "family"
+"2013-09-01":
+  - name: "🎓 I started at Alternative High School"
+    desc: "Began alternative education path after leaving traditional system"
+    category: "education"
+    tags: ["schooling"]
 
-"2018-01-30":
-  - name: "Signed a book deal for my book about arguing"
-    category: "writing"
-    tags: ["why are we yelling?"]
-
-"2018-02-21":
-  - name: "My last day at Slack"
+"2015-06-15":
+  - name: "🎓 I graduated from Alternative High School"
+    desc: "Completed high school education through alternative program"
+    category: "education"
+    tags: ["schooling"]
+  
+"2015-09-15":
+  - name: "👨‍🍳 I started working at the children's hospice"
+    desc: "Began position as cook, an experience that would influence much of my writing"
     category: "work"
-    tags: ["slack"]
+    tags: ["career"]
 
-"2018-03-14":
-  - name: "My first day at Patreon"
-    category: "work"
-    tags: ["patreon"]
-
-"2018-05-28":
-  - name: "🎂 I turn 42: Dig deeper"
-    category: "birthday"
-    link: "https://notes.busterbenson.com/blog/2018/07-02-dig-deeper/"
-    tags: ["annual review"]
-
-"2018-09-23":
-  - name: "My last day at Patreon"
-    category: "work"
-    tags: ["patreon"]
-
-"2018-10-01":
-  - name: "I begin working on my book full-time"
+"2015-12-13":
+  - name: "✍️ I published my first blog post on Medium"
+    desc: "Wrote 'The Best Time to Start a New Year's Resolution is Right Now'"
     category: "writing"
-    tags: ["why are we yelling?"]
+    tags: ["blogging"]
+    link: "https://blog.brennanbrown.ca/the-best-time-to-start-a-new-year-s-resolution-is-right-now-ffdd389fbf01"
 
-"2019-05-28":
-  - name: "🎂 I turn 43: All in & with the flow"
+"2016-04-13":
+  - name: "🎂 I turned 20: Becoming an Adult"
+    desc: "First annual review reflecting on the strangeness of entering adulthood and the weight of new responsibilities"
     category: "birthday"
-    link: "https://notes.busterbenson.com/2019/05/31/43-all-in-and-with-the-flow"
     tags: ["annual review"]
+    link: "https://blog.brennanbrown.ca/becoming-an-adult-10fd7135ce3c"
 
-"2019-11-19":
-  - name: "😱 Why Are We Yelling? is published"
-    category: "writing"
-    tags: ["why are we yelling?"]
-    link: "https://busterbenson.com/whyareweyelling/"
+"2016-09-07":
+  - name: "🎵 I released 'Unreleased: A Soundtrack'"
+    desc: "Released my third album of compositions on Bandcamp"
+    category: "music"
+    tags: ["composition", "piano"]
+    link: "https://augustin.bandcamp.com/album/unreleased-a-soundtrack"
+
+"2017-04-13":
+  - name: "🎂 I turned 21: Structure → Chaos"
+    desc: "Annual review examining the balance between structure and chaos, exploring the paradox of trying to find order in life"
+    category: "birthday"
+    tags: ["annual review"]
+    link: "https://blog.brennanbrown.ca/21-structure-chaos-ca5545d8dfdb"
+
+"2017-09-01":
+  - name: "🎓 I began studying at SAIT"
+    desc: "Started Information Technology program, serving as VP of Creative Writing Club"
+    category: "education"
+    tags: ["technology"]
+
+"2018-04-13":
+  - name: "🎂 I turned 22: Accepting Good Responsibility"
+    desc: "Annual review about embracing meaningful responsibility and finding purpose in obligation"
+    category: "birthday"
+    tags: ["annual review"]
+    link: "https://blog.brennanbrown.ca/22-accepting-good-responsibility-797366234e9f"
+
+"2018-06-30":
+  - name: "🎓 I dropped out of SAIT"
+    desc: "Didn't complete my diploma but took courses in courses focusing on hardware, OS, networking, and programming"
+    category: "education"
+    tags: ["technology"]
+
+"2019-04-13":
+  - name: "🎂 I turned 23: Dying Without Seeing You Again"
+    desc: "Annual review on mortality, connection, and the importance of presence in relationships"
+    category: "birthday"
+    tags: ["annual review"]
+    link: "https://blog.brennanbrown.ca/23-dying-without-seeing-you-again-3d99ffb6bf83"
+
+"2020-01-15":
+  - name: "👨‍🍳 I left my position at the children's hospice"
+    desc: "Concluded four years of service as cook to focus on academics and humanities"
+    category: "work"
+    tags: ["career"]
+
+"2020-02-01":
+  - name: "💻 I began the EvolveU Full-Stack Development Program"
+    desc: "Started intensive bootcamp focused on collaborative development"
+    category: "education"
+    tags: ["technology", "programming"]
 
 "2020-03-14":
-  - name: "🏠 First day of shelter-in-place for COVID-19"
+  - name: "🌍 I experienced the beginning of the COVID-19 pandemic"
+    desc: "Global lockdowns begin, fundamentally changing society"
     category: "world"
+    tags: ["history", "health"]
 
-"2020-05-28":
-  - name: "🎂 I turn 44: Year of the Amateur"
+"2020-04-13":
+  - name: "🎂 I turned 24: Be Noteworthy"
+    desc: "Annual review about making an impact and leaving a meaningful legacy"
     category: "birthday"
-    link: "https://paper.dropbox.com/doc/44-Year-of-the-Amateur--A1I6fGSn30hLhQMF5kpFCXC7AQ-xzFR0pPTrr36OFxt7h86h"
     tags: ["annual review"]
+    link: "https://blog.brennanbrown.ca/noteworthy-76d9f875d04c"
 
-"2020-12-14":
-  - name: "Biden officially declared winner of the election"
-    category: "world"
-    tags: ["politics"]
+"2020-06-07":
+  - name: "🌐 I launched brennanbrown.ca"
+    desc: "Created my first personal website and portfolio"
+    category: "technology"
+    tags: ["web development"]
+    link: "http://brennanbrown.ca"
 
-"2021-01-06":
-  - name: "Trump supporters storm the Capital Building in DC"
-    category: "world"
-    tags: ["politics"]
+"2020-08-31":
+  - name: "💻 I completed the EvolveU Program"
+    desc: "Finished full-stack development bootcamp with focus on JavaScript, React, Python"
+    category: "education"
+    tags: ["technology", "programming"]
 
-"2021-01-20":
-  - name: "Biden is inaugurated"
-    category: "world"
-    tags: ["politics"]
-
-"2021-05-04":
-  - name: "💉💉 I get my 2nd vaccination"
-    category: "world"
-    tags: ["pandemic"]
-
-"2021-05-28":
-  - name: "🎂 I turn 45: Year of Reconstellation"
+"2021-04-13":
+  - name: "🎂 I turned 25: The Mystery of My Broken Heart"
+    desc: "Annual review examining vulnerability, healing, and personal growth through difficult times"
     category: "birthday"
-    link: "https://buster.medium.com/45-year-of-reconstellation-38f7c0917c1b"
     tags: ["annual review"]
+    link: "https://blog.brennanbrown.ca/25-the-mystery-of-my-broken-heart-137ffe60da04"
 
-"2022-04-29":
-  - name: "Kellianne and I officially divorced"
-    desc: "Separated in June of 2019."
-    category: "relatiohships"
-    tags: ["kellianne"]
+"2021-08-31":
+  - name: "📚 I published 'The Dogwood Verses'"
+    desc: "Debut poetry collection featuring over 300 works divided into four books"
+    category: "writing"
+    tags: ["publication", "poetry"]
 
-"2022-05-18":
-  - name: "I get COVID"
-    desc: "Got it from the kids. We all make it through with minimal symptoms, thank goodness for vaccines."
-    category: "relatiohships"
-    tags: ["pandemic"]
+"2021-09-01":
+  - name: "📚 I published 'Selected Essays & Prose'"
+    desc: "Collection of essays and creative prose spanning a decade"
+    category: "writing"
+    tags: ["publication", "essays"]
 
-"2022-05-28":
-  - name: "🎂 I turn 46: A Blagenflorble Heart"
+"2021-09-01":
+  - name: "📚 I began studying at Mount Royal University"
+    desc: "Started English Honours program with double minor in Creative Writing & Religious Studies"
+    category: "education"
+    tags: ["writing", "academics"]
+
+"2022-04-13":
+  - name: "🎂 I turned 26: Waking Up"
+    desc: "Annual review reflecting on transitions, pauses, and the nature of creative work"
     category: "birthday"
-    link: "https://buster.medium.com/46-a-blagenflorble-heart-31bc2a992a83"
     tags: ["annual review"]
+    link: "https://medium.com/@brennanbrown/draft-hiatus-ii-317a1c1b1a54"
 
-"2056-09-12":
-  - name: "☠️ My life expectancy expiration date"
-    category: "self"
-    tags: []
+"2022-04-28":
+  - name: "🪶 I officially registered in the Manitoba Métis Federation"
+    desc: "Became registered member of MMF"
+    category: "identity"
+    tags: ["métis", "community"]
 
-"2076-05-28":
-  - name: "🚲 Goal: ride a bike on my 100th birthday"
+"2022-05-01":
+  - name: "📈 I began the OnRamp Growth Marketing Program"
+    desc: "Started 321 Growth Academy's pilot cohort"
+    category: "education"
+    tags: ["marketing"]
+
+"2022-09-01":
+  - name: "✍️ I founded Write Club"
+    desc: "Created a Queer-led and Indigenous-led creative collective with over 100 members"
+    category: "work"
+    tags: ["writing", "community"]
+    link: "https://writeclub.ca"
+
+"2022-09-30":
+  - name: "📈 I completed the OnRamp Growth Marketing Program"
+    desc: "Finished marketing bootcamp with focus on content strategy and growth"
+    category: "education"
+    tags: ["marketing"]
+
+"2023-03-13":
+  - name: "📚 I published 'Holy Waterfall'"
+    desc: "Poetry collection exploring Indigenous identity and spirituality"
+    category: "writing"
+    tags: ["poetry", "publication"]
+
+"2023-09-01":
+  - name: "🌱 I began consulting for Calgary Vegan Society"
+    desc: "Providing guidance on digital presence and marketing strategies"
+    category: "volunteer"
+    tags: ["community", "marketing"]
+
+"2023-12-17":
+  - name: "📚 I published 'The Weight of Yr Heart'"
+    desc: "Collection of thirty-seven love poems examining relationship complexities"
+    category: "writing"
+    tags: ["poetry", "publication"]
+
+"2024-02-01":
+  - name: "📚 I contributed to 'On the Fringe: A Collection of Filth'"
+    desc: "Write Club's first anthology publication"
+    category: "writing"
+    tags: ["publication", "anthology"]
+
+"2024-04-09":
+  - name: "📚 I published my first scholarly article"
+    desc: "Published research examining 'Nimkii' from This Place: 150 Years Retold in Mount Royal Undergraduate Humanities Review"
+    category: "writing"
+    tags: ["academic", "publication", "indigenous studies"]
+    link: "https://mrujs.mtroyal.ca/index.php/mruhr/article/view/768"
+
+"2024-08-03":
+  - name: "📚 I published 'Your Brothers Keeper'"
+    desc: "Poetry collection exploring connections with Russian literature"
+    category: "writing"
+    tags: ["poetry", "publication"]
+
+"2024-08-11":
+  - name: "📚 I published 'The Reaper and Her Sickle'"
+    desc: "250-page compendium of experimental writings from university years"
+    category: "writing"
+    tags: ["poetry", "publication"]
+
+"2025-04-01":
+  - name: "🎓 I will graduate from Mount Royal University"
+    desc: "Anticipated completion of English Honours degree with 3.9 GPA"
+    category: "education"
+    tags: ["academics"]
+
+"2071-04-13":
+  - name: "☠️ I will reach my statistical life expectancy"
+    desc: "Based on average male life expectancy in Canada"
+    category: "future"
+    tags: ["mortality"]
+
+"2096-04-13":
+  - name: "🚲 I will ride a bike on my 100th birthday"
+    desc: "Personal goal to maintain health and vitality into centenarian years"
     category: "goal"
-    tags: ["health"]
+    tags: ["health", "longevity"]
